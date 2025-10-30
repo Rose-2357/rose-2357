@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rose</h1>
-<h3 align="center">An aspiring frontend engineer</h3>
+<h3 align="center">An Entry Level Web Dev</h3>
 
 - 🔭 I’m currently working on **TripleTen software engineering bootcamp**
 
