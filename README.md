@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rose</h1>
-<h3 align="center">An aspiring frontend engineer</h3>
+<h3 align="center">An Entry Level Web Dev</h3>
 
 - 🔭 I’m currently working on **TripleTen software engineering bootcamp**
 
@@ -7,14 +7,14 @@
 
 - 💬 Ask me about **HTML, CSS, and Git**
 
-- 📫 How to reach me: [rose.2357.frontend.engineer@gmail.com](mailto:rose.2357.frontend.engineer@gmail.com)
+- 📫 How to reach me: [rose.ghaffari.frontend.engineer@gmail.com](mailto:rose.ghaffari.frontend.engineer@gmail.com)
 
 - ⚡ Fun fact **I love math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Rose-2357"><img src="./images/github.png" alt="Github logo" width="30"></a>
-&nbsp;&nbsp;
+    <a href="https://github.com/Rose-2357"><img src="./images/github.png" alt="Github logo" width="30"></a>
+    &nbsp;&nbsp;
 <a href="mailto:rose.ghaffari.frontend.engineer@gmail.com"><img src="./images/email.png" alt="Gmail logo" width="30"></a>
 
 </p>
