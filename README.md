@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://github.com/Rose-2357"><img src="./images/github.png" alt="Github logo" width="30"></a>
 &nbsp;&nbsp;
-<a href="mailto:rose.2357.frontend.engineer@gmail.com"><img src="./images/email.png" alt="Gmail logo" width="30"></a>
+<a href="mailto:rose.ghaffari.frontend.engineer@gmail.com"><img src="./images/email.png" alt="Gmail logo" width="30"></a>
 
 </p>
 
